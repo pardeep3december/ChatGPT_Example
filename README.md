@@ -17,5 +17,17 @@ MENU
 3. Exit
 
 Press 1           # to ask Question
+
 Press 2           #to generate AI image
+
 Press 3           # to Exit
+
+
+Demo Questions
+answer the question What can be broken but never held? 
+answer the question What gets wetter the more it dries?
+answer the question If you have one, you want to share it. But once you share it, you do not have it. What is it?
+Answer the question Which weighs more, a pound of feathers or a pound of bricks?
+
+AI Image
+draw a sketch a man with his family. A bicycle, a dog
